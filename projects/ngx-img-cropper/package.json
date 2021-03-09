@@ -1,6 +1,6 @@
 {
   "name": "@eklesia/ngx-img-cropper",
-  "version": "10.0.0-eklesia.0",
+  "version": "10.0.0-eklesia.1",
   "peerDependencies": {
     "@angular/common": ">=10.0.8",
     "@angular/core": ">=10.0.8",
