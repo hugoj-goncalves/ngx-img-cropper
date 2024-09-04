@@ -151,9 +151,5 @@
         }
       }
     }
-  },
-  "defaultProject": "img-croper",
-  "cli": {
-    "analytics": false
   }
 }
